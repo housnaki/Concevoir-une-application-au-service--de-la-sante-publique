@@ -7,6 +7,10 @@ Ma mission consiste à étudier les données d’Open Food Fact afin de proposer
 # Présentation des données:
 Pour réaliser ce projet nous disposons d’un jeu de données d’Open Food Fact composé de 1821081 produits alimentaires décrits par 186 features dont le Nova Group , le Nutri Score , les informations nutritionnelles des produits ainsi que les données concernant leur origine, emballage, catégorie…etc
 
-
+# Compétences évaluées:
+- Effectuer une analyse statistique multivariée
+- Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
+- Effectuer une analyse statistique univariée
+- Effectuer des opérations de nettoyage sur des données structurées
 
 
